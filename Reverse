@@ -1,0 +1,5 @@
+def reverse(self,s):
+  word = s split()
+  reverse = word[::-1]
+  reverse_st = ''.join(reverse)
+  return reverse_st
